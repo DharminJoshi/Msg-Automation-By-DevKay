@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: devkay-msg-automation
-    env: python
-    buildCommand: ""
-    startCommand: gunicorn app:flask_api
-    plan: free

@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: devkay-smart-responder
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn app:flask_api
+    plan: free

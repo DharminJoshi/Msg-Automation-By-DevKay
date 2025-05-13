@@ -1,0 +1,92 @@
+{
+  "categories": {
+    "appreciation": [
+      "thank you", "thanks", "appreciate", "grateful", "many thanks", "much appreciated", "cheers", "kudos"
+    ],
+    "feedback": [
+      "feedback", "suggest", "recommend", "idea", "proposal", "opinion", "advise", "improve", "comment"
+    ],
+    "support_issue": [
+      "issue", "problem", "bug", "error", "not working", "crash", "trouble", "glitch", "fail", "doesn't work"
+    ],
+    "progress_update": [
+      "update", "progress", "status", "developing", "phase", "timeline", "ETA", "schedule", "development"
+    ],
+    "request": [
+      "can you", "please", "would you", "need", "request", "kindly", "i want", "i would like", "looking for", "is it possible"
+    ],
+    "inquiry": [
+      "how", "what", "when", "where", "why", "who", "do you", "could you", "tell me", "explain"
+    ],
+    "greeting": [
+      "hello", "hi", "hey", "good morning", "good afternoon", "good evening", "greetings"
+    ],
+    "general": []
+  },
+  "responses": {
+    "appreciation": [
+      "You're most welcome. We’re glad to support your journey.",
+      "It’s our pleasure to assist you. Thank you for your appreciation!",
+      "We appreciate your kind words. Thank you for reaching out.",
+      "We’re always happy to help. Your appreciation means a lot to us.",
+      "It's wonderful to hear from you, and we're grateful for your kind feedback.",
+      "Thank you! We are always here to support you in your journey."
+    ],
+    "feedback": [
+      "Thank you for your feedback. We’ll review your suggestions carefully.",
+      "Your feedback is valuable to us, and we’ll consider it in our future improvements.",
+      "We appreciate your insights! They will be carefully reviewed.",
+      "Thank you for taking the time to provide feedback. We're always looking for ways to improve.",
+      "We are grateful for your feedback, and we’ll strive to make the necessary changes.",
+      "Your feedback helps us grow. We’ll definitely consider your suggestions."
+    ],
+    "support_issue": [
+      "We understand the problem and are working hard to resolve it.",
+      "Thank you for letting us know. We’re actively addressing the issue.",
+      "We’ve identified the issue and are looking into it as a priority.",
+      "We apologize for the inconvenience caused. Rest assured, we're working to fix it.",
+      "Thank you for your patience as we resolve the issue.",
+      "We’re aware of the issue and are currently investigating the matter to find a solution."
+    ],
+    "progress_update": [
+      "We’re currently progressing as expected. More updates will be provided soon.",
+      "Development is on track, and we’ll keep you informed of any changes.",
+      "Our work is ongoing, and everything is progressing as planned.",
+      "The development phase is moving forward, and we’re committed to delivering on time.",
+      "We’re making good progress! Expect updates as we move closer to completion.",
+      "Our team is hard at work, and we’re excited to share more details soon."
+    ],
+    "request": [
+      "Your request has been received, and we will respond shortly.",
+      "We’ve acknowledged your request and are processing it.",
+      "Thank you for your request! We’ll handle it with urgency.",
+      "We’ve noted your request, and it will be prioritized accordingly.",
+      "Your request is important to us, and we’ll be in touch soon with an update.",
+      "Thank you for reaching out with your request. We are working on it."
+    ],
+    "inquiry": [
+      "We’re happy to provide more information. What would you like to know?",
+      "Great question! We'll get back to you shortly with an answer.",
+      "Thank you for reaching out with your question. We'll clarify that for you.",
+      "We appreciate your inquiry. Let us check on that and get back to you.",
+      "We'll review your question and respond with the most accurate information.",
+      "Thanks for your question. We’ll make sure you get the clarity you need."
+    ],
+    "greeting": [
+      "Hello! How can we assist you today?",
+      "Hi there! We're here to help you.",
+      "Hey! Great to hear from you. How can we help?",
+      "Good day! Let us know how we can support you.",
+      "Greetings! We're at your service.",
+      "Welcome! What can we do for you today?"
+    ],
+    "general": [
+      "Thank you for your message. We’ll process it accordingly.",
+      "We appreciate your communication and will handle it promptly.",
+      "Thanks for reaching out. We will address your concern soon.",
+      "Your message has been received, and we’ll take care of it shortly.",
+      "We’ve received your message and will take action on it right away.",
+      "Thank you for getting in touch! We’ll make sure your concern is addressed."
+    ]
+  }
+}
